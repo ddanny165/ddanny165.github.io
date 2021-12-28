@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebLab3Api", "WebLab3Api\WebLab3Api.csproj", "{5D628B21-FA46-43B8-9B19-98FC194C69CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D628B21-FA46-43B8-9B19-98FC194C69CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D628B21-FA46-43B8-9B19-98FC194C69CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D628B21-FA46-43B8-9B19-98FC194C69CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D628B21-FA46-43B8-9B19-98FC194C69CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90F1A537-A707-4290-B767-510B888F55D9}
+	EndGlobalSection
+EndGlobal

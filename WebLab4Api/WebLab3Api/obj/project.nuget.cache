@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ykR7DWnzqcENdjRCQQ3WnXzcVA5JSYD+51hmXk59i/1LMvJoQnbZtj6VTLtf3qM2CtiiS3VlqAI/Raeyog6Eyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\moska\\source\\repos\\WebLab3Api\\WebLab3Api\\WebLab3Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moska\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\moska\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\moska\\.nuget\\packages\\mysqlconnector\\2.0.0\\mysqlconnector.2.0.0.nupkg.sha512",
+    "C:\\Users\\moska\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\moska\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\moska\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\moska\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
